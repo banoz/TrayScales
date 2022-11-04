@@ -2,8 +2,10 @@
 
 .063″ (1.6 mm) 5052 Aluminum
 
-750g loadcells
+750g loadcells - 2 pcs
 
-1/8" spacers
+1/8" spacers - 10 pcs
 
-10 mm M3 bolts
+10 mm M3 screw - 8 pcs
+
+6 mm M3 screw - 2 pcs
