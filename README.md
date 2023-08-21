@@ -13,3 +13,5 @@
 - 10 mm M3 screw - 8 pcs
 
 - 6 mm M3 screw - 2 pcs
+
+https://github.com/banoz/dualScaleBoard_HX711
